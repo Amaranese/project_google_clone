@@ -14,3 +14,4 @@ ReactDom.render(
   </StateContextProvider>,
   document.getElementById('root'),
 );
+
